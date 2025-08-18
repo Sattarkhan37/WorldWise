@@ -1,0 +1,6 @@
+.nav {
+  background-color: rebeccapurple;
+}
+:global(.test) {
+  background-color: red;
+}
