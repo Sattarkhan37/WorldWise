@@ -10,7 +10,7 @@
         "lat": 38.727881642324164,
         "lng": -9.140900099907554
       },
-      "id": 73930385
+      "id": "73930385"
     },
     {
       "cityName": "Madrid",
@@ -22,7 +22,7 @@
         "lat": 40.46635901755316,
         "lng": -3.7133789062500004
       },
-      "id": 17806751
+      "id": "17806751"
     },
     {
       "cityName": "Berlin",
@@ -34,7 +34,7 @@
         "lat": 52.53586782505711,
         "lng": 13.376933665713324
       },
-      "id": 98443197
+      "id": "98443197"
     },
     {
       "cityName": "Bengaluru",
@@ -46,7 +46,211 @@
         "lat": 12.959846,
         "lng": 77.573914
       },
-      "id": 98443198
+      "id": "98443198"
+    },
+    {
+      "id": "5884",
+      "cityName": "Bengaluru",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-08-22T19:53:56.457Z",
+      "notes": "Allah",
+      "position": {
+        "lat": "12.941577036166327",
+        "lng": "77.46871880230763"
+      }
+    },
+    {
+      "id": "51ab",
+      "cityName": "Nyirol County",
+      "country": "South Sudan",
+      "emoji": "🇸🇸",
+      "date": "2025-08-22T20:07:25.332Z",
+      "notes": "",
+      "position": {
+        "lat": "8.841037144945243",
+        "lng": "31.59396267552576"
+      }
+    },
+    {
+      "id": "2300",
+      "cityName": "Bilma",
+      "country": "Niger (the)",
+      "emoji": "🇳🇪",
+      "date": "2025-08-22T20:07:29.445Z",
+      "notes": "",
+      "position": {
+        "lat": "22.645299686816806",
+        "lng": "11.570624153549504"
+      }
+    },
+    {
+      "id": "ae55",
+      "cityName": "Semeno-Krasilovo",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2025-08-22T20:07:42.693Z",
+      "notes": "",
+      "position": {
+        "lat": "53.563640530792405",
+        "lng": "85.72164480926133"
+      }
+    },
+    {
+      "id": "489d",
+      "cityName": "Leshukonskoye",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2025-08-22T20:08:15.777Z",
+      "notes": "",
+      "position": {
+        "lat": "64.49492906402175",
+        "lng": "48.48992797955736"
+      }
+    },
+    {
+      "id": "d572",
+      "cityName": "Ruoqiang",
+      "country": "China",
+      "emoji": "🇨🇳",
+      "date": "2025-08-22T20:08:40.054Z",
+      "notes": "",
+      "position": {
+        "lat": "36.35822409649709",
+        "lng": "90.15667523832029"
+      }
+    },
+    {
+      "id": "a915",
+      "cityName": "Logrosan",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-08-22T20:08:56.996Z",
+      "notes": "",
+      "position": {
+        "lat": "39.32088020956358",
+        "lng": "-5.471841462860401"
+      }
+    },
+    {
+      "id": "644d",
+      "cityName": "Baena",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-08-22T20:09:00.776Z",
+      "notes": "dsd",
+      "position": {
+        "lat": "37.56635377409188",
+        "lng": "-4.397173545322603"
+      }
+    },
+    {
+      "id": "b8cd",
+      "cityName": "Baltanas",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-08-22T20:10:45.961Z",
+      "notes": "",
+      "position": {
+        "lat": "41.93678168132657",
+        "lng": "-4.285679035059935"
+      }
+    },
+    {
+      "id": "2fa4",
+      "cityName": "La Tierga",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-08-22T20:12:02.770Z",
+      "notes": "",
+      "position": {
+        "lat": "41.64208043893742",
+        "lng": "-1.5399326744106734"
+      }
+    },
+    {
+      "id": "b5e9",
+      "cityName": "Torrejoncillo del Rey",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-08-22T20:14:37.226Z",
+      "notes": "sds",
+      "position": {
+        "lat": "40.06432603889023",
+        "lng": "-2.506435393359217"
+      }
+    },
+    {
+      "id": "0eb1",
+      "cityName": "Albarracin",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-08-22T20:19:15.539Z",
+      "notes": "sa",
+      "position": {
+        "lat": "40.449753741403114",
+        "lng": "-1.4520687908699004"
+      }
+    },
+    {
+      "id": "0fd2",
+      "cityName": "Tarres",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-08-22T20:20:39.653Z",
+      "notes": "",
+      "position": {
+        "lat": "41.44486063559273",
+        "lng": "1.0300859191570224"
+      }
+    },
+    {
+      "id": "d423",
+      "cityName": "Dio-et-Valquieres",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-08-22T20:22:19.529Z",
+      "notes": "",
+      "position": {
+        "lat": "43.66059460253671",
+        "lng": "3.1827510659060114"
+      }
+    },
+    {
+      "id": "55d2",
+      "cityName": "Puymaurin",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-08-22T20:27:58.244Z",
+      "notes": "sds",
+      "position": {
+        "lat": "43.358005759297505",
+        "lng": "0.7225623267642868"
+      }
+    },
+    {
+      "id": "f440",
+      "cityName": "Bagnols",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-08-22T20:28:05.331Z",
+      "notes": "",
+      "position": {
+        "lat": "45.50785109221145",
+        "lng": "2.655788381699971"
+      }
+    },
+    {
+      "id": "d4dc",
+      "cityName": "Peyrolles",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-08-22T20:29:49.224Z",
+      "notes": "",
+      "position": {
+        "lat": "42.95755221743385",
+        "lng": "2.3260782013834596"
+      }
     }
   ]
 }
